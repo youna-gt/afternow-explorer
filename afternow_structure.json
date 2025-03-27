@@ -1,0 +1,22 @@
+{
+  "name": "AfterNow Explorer",
+  "children": [
+    {
+      "name": "Intro",
+      "children": []
+    },
+    {
+      "name": "Projects",
+      "children": [
+        {
+          "name": "Project A",
+          "children": []
+        },
+        {
+          "name": "Project B",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
